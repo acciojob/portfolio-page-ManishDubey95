@@ -1,2 +1,16 @@
+img{
+    width: 20vw;
+    height:20vw;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
 
-/* Your CSS Code here. */
+#skills{
+    margin-top: 50px;
+}
+
+#projects{
+    margin-top: 50px;
+}
